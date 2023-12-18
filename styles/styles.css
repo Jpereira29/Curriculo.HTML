@@ -68,16 +68,16 @@ body {
 }
 
 img {
-    width: 25px;
+    width: 20px;
     margin: 5px;
 }
 
 li {
-    font-size: 14px;
+    font-size: 12px;
 }
 p {
     font-size: 14px;
-    margin: 5px 0;
+    margin: 1px 0;
 }
 
 h1,
@@ -91,7 +91,7 @@ h2 {
     font-size: 18px;
 }
 
-h3 {
+.destaque {
     font-size: 16px;
     background: #e5e5e5;
     padding: 0 3px;
@@ -101,4 +101,8 @@ h3 {
 span {
     color: #414141;
     font-weight: bold;
+}
+
+.atividades {
+    margin-top: 8px;
 }
